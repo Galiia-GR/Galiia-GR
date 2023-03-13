@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying in [*The Rolling Scopes School*](https://rs.school/js/)
 - 👯 I lead an active lifestyle and am open to new ideas
 - 📘 My education: Engineer degree of Computer Science and Robotics
-- 📫 How to contact me: **hope05590@gmail.com**
+- 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), [**email**](mailto:hope05590@gmail.com)
 - 🌍 I speak Russian (native), English (A2)
 
 
