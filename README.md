@@ -7,7 +7,7 @@
 - 👯 I lead an active lifestyle and am open to new ideas
 - 📘 My education: Engineer degree of Computer Science and Robotics
 - 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), hope05590@gmail.com
-- 🌍 I speak Russian (native), English (A2)
+- 🌍 I speak Russian (native), English (B1+)
 
 
 
