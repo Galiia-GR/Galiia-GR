@@ -5,8 +5,9 @@
 
 - 📘 My education: Engineer degree of Computer Science and Robotics
 - 👯 I lead an active lifestyle and am open to new ideas
-- 🌱 I have successfully completed my studies at [*The Rolling Scopes School*](https://rs.school/js/)
-      received certificates [**JS/FE PRE-SCHOOL**](https://app.rs.school/certificate/an5yb0cb) , [**JAVASCRIPT/FRONT-END**](https://app.rs.school/certificate/4rfs5ltz)
+- 🌱 I have successfully completed my studies at <a href="https://rs.school/js/" target="_blank">The Rolling Scopes School</a>
+      received certificates <a href="https://app.rs.school/certificate/an5yb0cb" target="_blank">JS/FE pre-school</a>,
+      <a href="https://app.rs.school/certificate/4rfs5ltz" target="_blank">JAVASCRIPT/FRONT-END</a>
 - 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), hope05590@gmail.com
 - 🌍 I speak Russian (native), English (B1+)
 
