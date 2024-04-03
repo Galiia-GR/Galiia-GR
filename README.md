@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://galiia-gr.github.io/rsschool-cv/" target="_blank">Galiia (CV)</a>👋</h1>
+<h1 align="center">Hi there, I'm Galiia <a href="https://galiia-gr.github.io/rsschool-cv/" target="_blank"> my CV</a>👋</h1>
 
 [![codewars](https://www.codewars.com/users/rsschool_140970a538cc19f9/badges/small)](https://www.codewars.com/users/rsschool_140970a538cc19f9)
 
