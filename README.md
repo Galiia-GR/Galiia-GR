@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Galiia <a href="https://galiia-gr.github.io/rsschool-cv/" target="_blank"> my CV</a>👋</h1>
 
-[![codewars](https://www.codewars.com/users/rsschool_140970a538cc19f9/badges/small)](https://www.codewars.com/users/rsschool_140970a538cc19f9)
+[![codewars](https://www.codewars.com/users/Galiia-GR/badges/small)](https://www.codewars.com/users/Galiia-GR)
 
 
 - 📘 My education: Engineer degree of Computer Science and Robotics
