@@ -8,7 +8,4 @@
 - 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), hope05590@gmail.com
 - 🌍 I speak Russian (native), English (B1+)
 
-
-![Galiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galiia-GR&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiia-GR&layout=compact)](https://github.com/Galiia-GR/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiia-GR&layout=compact&theme=default)
