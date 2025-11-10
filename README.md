@@ -6,4 +6,6 @@
 - 🌍 I speak Russian (native), English (B1+)
 
 [![codewars](https://www.codewars.com/users/Galiia-GR/badges/small)](https://www.codewars.com/users/Galiia-GR)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiia-GR&layout=compact)](https://github.com/Galiia-GR/github-readme-stats)
