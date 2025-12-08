@@ -5,7 +5,7 @@
 - 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), hope05590@gmail.com
 - 🌍 I speak Russian (native), English (B1+)
 
-[![codewars](https://www.codewars.com/users/Galiia-GR/badges/small)](https://www.codewars.com/users/Galiia-GR)
+[![codewars](https://www.codewars.com/users/Galiia-GR/badges/large)](https://www.codewars.com/users/Galiia-GR)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiia-GR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
