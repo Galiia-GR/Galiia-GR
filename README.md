@@ -3,7 +3,7 @@
 - 📘 My education: Engineer degree of Computer Science and Robotics, Ufa State Aviation Technical University
 - 👯 I lead an active lifestyle and am open to new ideas
 - 📫 How to contact me: [**Telegram**](https://t.me/galiia_g), hope05590@gmail.com
-- 🌍 I speak Russian (native), English (B1+)
+- 🌍 I speak Russian (native), English (B2+)
 
 ### My Skills
 
